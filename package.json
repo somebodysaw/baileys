@@ -1,5 +1,5 @@
 {
-  "name": "@mrpudidi/gravatar",
+  "name": "@somebody",
   "version": "1.0.2",
   "description": "NodeJS libary gravatar",
   "keywords": [
@@ -9,9 +9,9 @@
     "meta",
     "vreden"
   ],
-  "homepage": "https://www.vreden.my.id",
+  "homepage": "https://www.69.dev",
   "repository": {
-    "url": "git+ssh://git@github.com/vreden/avatar.git"
+    "url": "git+ssh://git@github.com/somebody/avatar.git"
   },
   "license": "MIT",
   "author": "Adhiraj Singh",
